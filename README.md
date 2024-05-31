@@ -1,6 +1,6 @@
 # Misc
 
-[![Build Status](https://github.com/Junzhi Xue/Misc.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/Junzhi Xue/Misc.jl/actions/workflows/CI.yml?query=branch%3Amaster)
+[![Build Status](https://github.com/xuestrange/Misc.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/xuestrange/Misc.jl/actions/workflows/CI.yml?query=branch%3Amaster)
 
 ## Macro
 ```shell
