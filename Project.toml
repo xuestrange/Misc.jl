@@ -1,0 +1,13 @@
+name = "Misc"
+uuid = "60e666f2-052d-4560-8788-e1a16455ffb0"
+authors = ["Junzhi Xue <xjz1cumt@163.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.10"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
