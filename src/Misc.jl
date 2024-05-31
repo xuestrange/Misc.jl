@@ -1,5 +1,6 @@
 module Misc
-
-# Write your package code here.
+using Dates
+include("utils.jl")
+export @sec, @log, @go, @done
 
 end
